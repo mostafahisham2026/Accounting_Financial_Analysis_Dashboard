@@ -236,6 +236,7 @@ Data Analytics Concepts
 Included:
 
 Power BI Dashboard File (.pbix)
+
 Dashboard Demo Video
 Dashboard Screenshots
 

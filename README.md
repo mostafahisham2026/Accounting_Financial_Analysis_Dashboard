@@ -1,4 +1,4 @@
-# Accounting Financial Analysis Dashboard
+📊 Accounting Financial Analysis Dashboard
 
 ## Project Overview
 

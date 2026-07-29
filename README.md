@@ -181,7 +181,7 @@ Analyzes financial health indicators.
 
 ## Executive Dashboard
 
-![1.Executive_Dashboard](1.Executive_Dashboard.jpg)
+![1.Executive_Dashboard](1.Executive_Dashbord.jpg)
 
 
 ## Income Statement Dashboard

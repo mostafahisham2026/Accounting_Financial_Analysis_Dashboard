@@ -179,13 +179,29 @@ Analyzes financial health indicators.
 
 # Project Screenshots
 
-Dashboard screenshots will be added:
+## Executive Dashboard
 
-- Executive Dashboard
-- Income Statement Dashboard
-- Balance Sheet Dashboard
-- Cash Flow Dashboard
-- Financial Ratios Dashboard
+![Executive Dashboard](Screenshots/1.Executive_Dashboard.jpgg)
+
+
+## Income Statement Dashboard
+
+![Income Statement Dashboard](Screenshots/2.Income_Statement_Dashboard.jpgg)
+
+
+## Balance Sheet Dashboard
+
+![Balance Sheet Dashboard](Screenshots/3.Balance_Sheet_Dashboard.jpg)
+
+
+## Cash Flow Dashboard
+
+![Cash Flow Dashboard](Screenshots/4.Cash_Flow_Dashboard.jpg)
+
+
+## Financial Ratios Dashboard
+
+![Financial Ratios Dashboard](Screenshots/5.Financial_Ratios_Dashboard.jpg)
 
 # Future Improvements
 

@@ -1,6 +1,6 @@
 📊 Accounting Financial Analysis Dashboard
 
-## Project Overview
+📌 Project Overview
 
 An interactive Power BI Financial Analysis Dashboard connected with a Microsoft Access database to analyze business financial performance, financial position, cash flow, and financial ratios.
 
@@ -44,7 +44,7 @@ The accounting data was prepared, structured, and connected to Power BI for anal
 - AI Tools
 
 
-# Dashboard Pages
+📊 Dashboard Pages
 
 ## 1. Executive Financial Dashboard
 
@@ -177,7 +177,7 @@ Analyzes financial health indicators.
 - ROE: 8.65%
 
 
-# Project Screenshots
+📸 Project Screenshots
 
 ## Executive Dashboard
 
@@ -210,6 +210,39 @@ Analyzes financial health indicators.
 - Add forecasting models using AI
 - Automate reporting process
 - Connect with SQL Database
+
+
+📱 Mobile Responsive Layout
+The dashboard was optimized for Power BI Mobile Layout to provide:
+
+Better mobile viewing experience.
+Improved KPI arrangement.
+Optimized visual placement.
+Easy navigation on mobile devices.
+
+
+🛠 Tools & Technologies
+Power BI
+DAX Measures
+Power Query
+Microsoft Excel
+SQL
+Python
+AI Tools
+Data Analytics Concepts
+
+
+📂 Project Files
+Included:
+
+Power BI Dashboard File (.pbix)
+Dashboard Demo Video
+Dashboard Screenshots
+
+🎬 Project Demo Video
+Watch the full Power BI dashboard demonstration:
+
+▶️ View Dashboard Demo Video
 
 # Author
 

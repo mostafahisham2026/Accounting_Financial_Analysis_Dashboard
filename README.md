@@ -222,6 +222,7 @@ Easy navigation on mobile devices.
 
 
 🛠 Tools & Technologies
+
 Power BI
 DAX Measures
 Power Query

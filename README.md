@@ -181,27 +181,27 @@ Analyzes financial health indicators.
 
 ## Executive Dashboard
 
-![1.Executive_Dashboard](Screenshots/1.Executive_Dashboard.jpgg)
+![1.Executive_Dashboard](1.Executive_Dashboard.jpg)
 
 
 ## Income Statement Dashboard
 
-![2.Income_Statement_Dashboard](Screenshots/2.Income_Statement_Dashboard.jpgg)
+![2.Income_Statement_Dashboard](2.Income_Statement_Dashboard.jpg)
 
 
 ## Balance Sheet Dashboard
 
-![3.Balance_Sheet_Dashboard](Screenshots/3.Balance_Sheet_Dashboard.jpg)
+![3.Balance_Sheet_Dashboard](3.Balance_Sheet_Dashboard.jpg)
 
 
 ## Cash Flow Dashboard
 
-![4.Cash_Flow_Dashboard](Screenshots/4.Cash_Flow_Dashboard.jpg)
+![4.Cash_Flow_Dashboard](4.Cash_Flow_Dashboard.jpg)
 
 
 ## Financial Ratios Dashboard
 
-![5.Financial_Ratios_Dashboard](Screenshots/5.Financial_Ratios_Dashboard.jpg)
+![5.Financial_Ratios_Dashboard](5.Financial_Ratios_Dashboard.jpg)
 
 # Future Improvements
 
